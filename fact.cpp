@@ -4,7 +4,7 @@ int main()
 {
 	int a,f,i;
 	cin>>a;
-	for(i=4;i>0;i++)
+	for(i=a;i>0;i--)
 	{
 		f=f*i;
 	}
